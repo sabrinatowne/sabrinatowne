@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sabrinatowne
 - 👀 I’m interested in frontend/backend development💻 and cello🎻!
-- 🌱 I’m currently learning Databases and Human-Computer Interaction.
-- 💞️ I’m looking to collaborate on more personal programming projects.
 - 📫 How to reach me: sabrinatowne7@gmail.com
 
 <!---
